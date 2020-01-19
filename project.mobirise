@@ -34,7 +34,15 @@
     "siteFonts": [],
     "uniqCompNum": 6,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://www.makedoi.ml",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "sitemapSwitcher": "on",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
