@@ -1401,59 +1401,6 @@ body {
 .cid-rNQ0Ctla0w P {
   color: #767676;
 }
-.cid-rNW60iYsLx {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rNW60iYsLx p {
-  margin-bottom: 0;
-}
-.cid-rNW60iYsLx .card-box {
-  z-index: 1;
-  position: relative;
-  background-color: rgba(85, 180, 212, 0);
-  height: 100%;
-  width: 100%;
-  pointer-events: none;
-}
-.cid-rNW60iYsLx .card-box .card-title {
-  pointer-events: all;
-}
-.cid-rNW60iYsLx .card-box .mbr-text {
-  pointer-events: all;
-}
-.cid-rNW60iYsLx .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.cid-rNW60iYsLx .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-rNW60iYsLx .card-img img {
-  z-index: -1;
-  height: 100%;
-  min-width: 100%;
-  width: auto;
-}
-.cid-rNW60iYsLx .card-wrap {
-  position: relative;
-}
-.cid-rNW60iYsLx .card {
-  padding-bottom: 2rem;
-}
-.cid-rNW60iYsLx P {
-  color: #ffffff;
-}
 .cid-rNQ1IzPSg6 {
   padding-top: 60px;
   padding-bottom: 60px;
